@@ -1,47 +1,262 @@
 Free-mo N Scale (Free-moN) Modular Railroading
 Raising the Bar for N Scale Modular Railroading
 
-Standards and Recmmendations
-
+National Standards and Recommendations
 
 ## Overview ##
 
-Fre-mo N attempts to raise-the-bar for N scale modular railroading by specifying standars for benchwork, track, and digital control that promotes, and even forces, prototypical appearance and operational characteristics.  This dcument contains standards that must be followed, and recommendations that have been gathered from various sources.  
+Free-moN attempts to raise-the-bar for N scale modular railroading by specifying standards for framework, track, and digital control that promotes, and even requires, realistic prototypical appearance and reliable operational characteristics. 
+It goes beyond the traditional closed-loop set-up in creating a truly universal “free-form” modular design that is heavily influenced by prototype railroading. 
+The beauty of the Free-mo standard is that it allows builders to replicate any freelance or prototype track plan within modular boundaries, yet can be combined with other Free-mo modules for maximal interoperability. 
+This document contains standard requirements, [S.x.x], and recommended practices, [RP.x.x], that have been gathered from the community of Free-mo and Free-moN modelers.  
 
 
 ## Objectives ##
 
-The Free-moN Standard has teh following objectives:
-  1. To promote and require hi-fedility prototypical scale model railroading.
-  2. To ensure reliable track and electrical operation.
-  3. To encourage visual continuity between modules.
-  4. To encourge a loose association among individuals; free from club memberships, dues, and titles.
-  5. To keep the standard specifiations to a minimum without compormising the previous objectives.
+The Free-moN standard has the following objectives in mind:
+	
+	● To promote and require hi-fidelity prototypical scale model railroading.
+	● To ensure reliable track and electrical operation.
+	● To encourage visual continuity between modules.
+	● To encourage a loose association among individuals free from club memberships, dues and 	titles.
+	● To keep the standard specifications to a minimum without compromising the previous 	objectives.
+
+Each standard set forth below must satisfy at least one of these goals.
+
+
+## The Free-moN Community ##
+
+The Free-moN Community includes all individuals building, owning, operating, or interested in components of Free-moN, and actively engaging or participating with the community in good faith.
+There are several outlets to engage with the Free-moN community in either a physical, virtual, public or private settings.  
+While some methods may be more active or preferred within the community, no single outlet is or will be endorsed as official.  
+Inquiries are best sent to sources most local to you or a broad selection of groups.  
+Below is a list of the most respected methods for engaging and participating with the Free-moN community as a whole or by region or locale.  
+Many groups have designated a public contact who has volunteered to field inquiries and connect modelers with the greater Free-moN Community.
+
+
+# Facebook Group #
+
+Free-moN Model Railroading 
+The group was set to private by mistake, please request admittance.  
+Approval is usually complete within hours.
+https://www.facebook.com/groups/FreemoN 
+
+
+# Regional/Local Groups and Websites #
+
+N-Land Pacific
+Southern California
+http://www.nlandpacific.com  
+https://www.facebook.com/NLandPacific/ 
+
+Silicon Valley Free-moN
+San Francisco Bay Area
+http://www.sv-free-mon.org
+https://www.facebook.com/SiliconValleyFreeMoN 
+
+Minnesota Free-moN
+Minnesota
+https://www.facebook.com/MNFreeMoN 
+
+Pacific Northwest Free-moN
+Greater Seattle-Portland Area
+http://pnwfreemo-n.org
+
+Free-moNebraska
+Nebraska
+Public Contact:  Mark Watson
+Email: mark@freemonebraska.org
+http://www.freemonebraska.org
+https://www.facebook.com/FreeMoNebraska 
+
+Inland Northwest Free-moN
+Northern Idaho / Western Washington
+https://www.facebook.com/groups/INWFreemoN 
+
+Utah Free-moN
+Utah
+https://www.facebook.com/groups/1961244467535801 
+
+Deleware Free-moN
+Deleware
+https://www.facebook.com/delawarefreemon
+
+Free-moNCO
+Northern Colorado
+https://www.facebook.com/groups/freemoNCO 
+
+Gateway Free-moN
+St. Louis, Missouri
+
+
+# Forums: #
+https://www.therailwire.net
+https://www.trainboard.com 
 
 
 ## Definitions ##
 
 Framework:
-A modules structural frame, including endplates, legs, bracing, and scenic subroadbed.
+A modules structural frame, including endplates, bracing, legs, and scenic subroadbed. 
 
 Module Section:
-  A framework, complete with track, scenery, and electrical components for display and operation of model trains.
+A framework complete with track, electrical components, and scenery, upon which models and trains are displayed and operated.  A Free-moN module can be any length, have any number of endplates, and the endplates can be at any angle to each other. 
+
+Endplate:
+Endplates are rigid, often reinforced, end surfaces of a module that join to another module.
+
+Standard Endplate:
+An endplate that follows the standards for width and track orientation, together with bus wiring plugs, to ensure interoperability with any other Free-moN standard endplate.  
 
 Module Group:
-  A group of Module Sections that is meant to be operated as a single unit in a fixed configuration.  A module group can have any number of sections.  The ends of a Module Group must follow the Standard Endplate requirements defined below.
-  
-Standard Endplate:
-The end piece of a module or module group's framework that can interface with any other Standard Endplate on a layout.
+Also referred to as a “Module Set” or simply “Module” for short, is a group of module sections that is meant to be operated as a single unit in a fixed configuration. A module group can have any number of module sections. 
+Any endplate of a module group intended to connect with other Free-moN modules must be standard endplates defined in the Framework description, below.  
+Except where otherwise noted, inter-module group endplates are more flexible in regard to track orientation requirements, as these are considered to be internal to the module.
 
-Inter-module Endplate:
-The end piece of a module section that can only interface with a counterpart of the same module group.  
-  
-  
-  ## Endplates ##
-  
-Endplates shall be 3/4 inch birch plywood or equivalent material that resists warping and be 6 inches high with a minimum width of 12 inches and a maximum width of 24 inches.  Module to module endplates shall be secured with mechanical clamps. 
-  
-  
-  
-  
-  
+#######################################
+#### Standards and Recommendations ####
+#######################################
+
+S.1.0 Framework
+S.1.1 Endplates shall be constructed of 3/4 inch birch plywood or an equivalent material that resists warping and be 6 inches high and a minimum 12 inches wide. 
+
+S.1.2 Module to module end plates shall be secured with clamps.
+
+RP.1.2 Avoid dimensional pine lumber for your frame work.  It has a tendency to warp and cup with age, skewing the overall module integrity.
+
+RP.1.2.1 A 24 inch wide module is recommended for depicting scenes or locations including prominent rail side features, such as industries and branch tracks.  18 inch wide modules are a good balance of track to scenery for generic 'pass through' modules.
+
+RP.1.2.2 Free-moN specifically allows freedom to build realistic scale curves.  Avoid 'round number' curves such as 45 or 90 degrees; except where a prototype specifically calls for that degree of curvature.  
+
+S.1.3 Each side of a module shall have a fascia that fully covers the side. The top edge of the fascia shall be contoured to match the scenic topography of the module. The fascia shall be painted black.
+
+RP.1.3 It is recommended to extend fascia black to cover the outer 3 to 4 inches of each side of the endplates to ensure continuity with varying module widths.  
+
+S.1.4 Sub roadbed surface shall be sturdy enough to prevent sagging over the length of the module.
+
+RP.1.4 See Foam Top Construction FAQs
+
+S.1.5  Each module shall have legs that support the module free-standing. Each leg must be vertically adjustable plus and minus 1 inch to compensate for uneven floors. The bottoms of the legs shall have rubber tip or equivalent floor protection. Nominal and minimum height of rail head from the floor shall be 50 inches. 
+
+RP.1.5.1  See “H” style leg construction FAQs
+
+RP.1.5.2   See EMT Conduit style leg construction FAQs
+
+S.1.6 On modules with grades the maximum height of the rail head shall be 62 inches above the floor and the elevation of the high end shall be some multiple of 3/4 inch above the low end.
+
+S.1.7  Both sides of a module shall have a black skirt. Each end of the skirt shall extend past the module end plate to overlap with adjacent module skirting. The bottom edge of the skirt shall be even with the bottom of the leg vertical member to prevent dragging on the floor.
+
+RP.1.7.1  Use large binder clips or 1” spring clamps to attach skirting to the bottom edge of a modules fascia.  
+
+RP.1.7.2  To limit seams in skirting material, use full un-cut bolts of 46” black broadcloth fabric.  Alternative material options garden barrier cloth or plastic.  Coordinate with fellow modelers to pool resources.
+
+RP.1.8.1 See Sandwich Board Transportation FAQs
+
+S.2 Track
+S.2.1 Main line track shall be code-55 nickel-silver flex or hand laid with prototypical tie dimensions and tie spacing. 
+
+S.2.2 Track must be straight, flat, and perpendicular to the endplate for 4 inches from each end of the module.  
+
+S.2.3  Minimum radius for the mainline shall be 22 inches with at least 6 inches of straight track between reverse curves. 
+
+RP.2.3 While the minimum radius is 22 inches, Free-moN allows much larger radius to be utilized.  Radius of 36 inches or greater are strongly preferred on the mainline. 
+
+RP.2.3.1  See RP.1.2.2: Free-moN specifically allows freedom to build realistic scale curves.  Avoid 'round number' curves such as 45 or 90 degrees; except where a prototype specifically calls for that degree of curvature.
+
+S.2.4 Mainline turnouts shall be at least #6. 
+
+RP.2.4 Similar to radius, turnouts sized #8 and larger are strongly preferred on the mainline. 
+
+S.2.5 Turnout frog, points and point rails shall be powered in a manner that does not rely solely on the contact between the points and the stock rails.
+
+RP.2.5 All mainline turnouts should have a physical button or control that is accessible from both or either side of the module.  Throttle network based turnout controls may be used, provided local button control option exist as well.
+
+S.2.6 Main line maximum grade shall be 2.0 percent (1/4 inch per foot). 
+
+RP.2.6  Cosmetic grades are strongly discouraged on the mainline 
+
+RP.2.6.1 When required, it is strongly encouraged to keep grades less than 1%.
+
+S.2.7 Main line roadbed must be 1/8 inch cork or equivalent.  
+
+S.2.8 Rail and track shall be cut flush with the outside face of the endplate. Modules will connect at the end-plates by clamping securely so that the rail-heads align without the use of rail joiners.
+
+RP.2.8.1 “Butt Joint” rails should be set back approximately 1/64th  inch or 0.5mm from the outside face of the endplate to prevent pinching or damage during alignment.  
+
+RP.2.87.2  A slight bevel on each rail toward the inside of the track will aid wheelset tracking across joints.  See Butt Joint FAQ for diagrams.
+
+RP.2.9.0  Double track spacing is recommended to be 1.125 inch (1 and 1/8th) or 28.575mm.
+Coordinate with fellow modelers or your local group for established practice. 
+
+RP.2.9.1 Double tracks may split the centerline of a module, or be offset, as required to achieve the appropriate prototypical track layout.  This may result in jogs in the fascia at the endplate.  Per RP.1.3, adding fascia black to the outer edges of endplates will mask these jogs.  
+
+
+S.3 Wiring
+S.3.1 Track Bus wire shall be 12 gauge or heavier spanning the length of the module between the endplates. 
+
+RP.3.1 Let's be real, 12 gauge is way overkill.  14 and 16 gauge bus is acceptable.   
+
+S.3.2 Track feeder wires shall be 24 gauge or heavier. 
+
+RP.3.2 For double or multi-track modules, increase versatility by wiring each mainline to it's own bus.  See Double Main Bus FAQ.  
+
+S.3.3 The Track Bus wires shall terminate near the center of the end- plate(s), extending long enough to attach to the adjoining module.
+
+S.3.4 The Track Bus shall use a pair of 30 Amp Anderson Powerpole connectors stacked vertically (hood up, tongue down). The top Powerpole shall connect to the left rail, as you face the endplate, the bottom Powerpole shall connect to the right rail.
+
+RP.3.4 It is recommended that you use a pair of red connectors to distinguish them from those used for the Accessory bus.
+
+RP.3.4.1 Applications that require a DCC signal may utilize power directly from the bus.
+
+S.3.5 AC Accessory Bus wire shall be 12 gauge or heavier spanning the length of the module between the endplates. 
+
+RP.3.5 Again, let's be real, 12 is way overkill.  14 or 16 gauge bus is acceptable.
+
+S.3.6 The Accessory Bus wires shall terminate near the center of the endplate(s), extending long enough to attach to the adjoining module.
+
+S.3.7 The Accessory Bus shall use a pair of 30 Amp Anderson Powerpole connectors stacked horizontally (tongue-to-tongue, hood-to-hood).
+
+RP.3.7 It is recommended that you use a pair of black connectors to distinguish them from those used for the track bus.
+
+S.3.8  The Accessory Bus may be used to power turnout motors that control track switches and other accessories on modules such as structure lighting, signals, animation, and the like. 
+
+S.3.9  The Accessory Bus should normally carry a DCC signal similar to that found on the Track Power bus.  A separate booster should be used to avoid robbing power from the track,  however it may carry 16V AC as an alternate, lower cost implementation.
+
+S.3.10 Electrical accessories within modules can use the DCC power directly (e.g. to control and power stationary decoders), or rectify and regulate it to DC (e.g. to power lights or electronics). If 16V AC is on this bus it may be used directly or may be rectified and regulated to DC as well. 
+
+
+S.4 Control
+S.4.1 NMRA compatible digital command control (DCC) with LocoNet, by Digitrax or equivalent throttle network, shall be used for layout control.
+
+RP.4.1  Coordinate with fellow modelers and local groups to select the best DCC Products for your module.  Digitrax is generally used at national and multi-group set-ups due to popularity of LocoNet compatible products, though local and regional groups may use alternate products.  
+
+S.4.2 Each module shall have a single 6-wire "RJ12" phone jack mounted on the underside, within six inches of the end plate, to connect the LocoNet between modules. 
+
+RP.4.2 Modules may omit this cable/jack in the case that a pass through extension is provided. 
+
+RP.4.2.1 Inter-module connection is achieved with a simple 6-wire RJ12 cord. All of the Loconet connections require straight-through cables. Standard telephone cables are not wired straight through. Use color-coded wire matching the wire colors present in the phone jacks (white/green/yellow/black/ red/blue is most common). Use minimum 26 ga. solid core wire for sturdy connection to phone jack screw terminals. Add strain relief to the wires near their connections to the phone jacks.
+
+S.4.3 Modules four feet or longer shall have a single or dual 6-wire "RJ12" phone jack mounted on each side of the module for hand-held DCC throttle connection.
+
+RP.4.3 As radio and wifi throttles become more prevalent, throttle panels may be phased out.  Coordinate with fellow modelers and local groups for existing practices in your area.    
+
+Scenery, Equipment, and Operations
+S.5.1 The Mainline shall be ballasted with prototypical colors and material.
+
+RP.5.2  The best ballast color is whatever closest matches your prototype.  
+
+RP.5.2.1 Scale 'real rock' ballast products are strongly recommended instead of Woodland Scenic fine 'walnut shell' ballast.  See Ballasting FAQ.  
+
+RP.5.2.2  While it is quite common to see double or multi-track mainlines with different ballast colors per track, it is best to avoid these variations to maintain versatility and visual continuity of module orientation. 
+
+S.5.2 Some form of scenery shall be used to hide the bench work. Scenery near the end plates shall have a flat profile roughly ¼ inch below the top of the main line rail.
+
+RP.5.2 Landscaping along the module ends must be designed to flow smoothly into adjacent modules.  No feature shall terminate at the endplate.  Roads, rivers, and such must exit to the side of module or come to a natural scenic end prior to the endplate.
+
+RP.5.2.1 Use a generic grassy/sandy terrain. Avoid structures and other details that could obstruct your forearms when aligning modules during setup.
+
+S.5.3 Rolling stock wheels, trucks and weight shall meet or exceed NMRA Standards and Recommended Practices.
+
+RP.5.3 Replace all 'Pizza Cutter' or other deep flange wheelsets you may have with modern 'standard' or 'low profile' wheelsets.  Deep flange wheelsets are NOT compatible with Code 55 track.
+
+RP.5.3.1  Prized Vintage Locomotives with deep flange wheelsets can be saved!  Coordinate with fellow modelers or your local group for professional services that are capable of trimming excess flange.
